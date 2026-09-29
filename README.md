@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou o Samuel Silveira 👋
 
-<!--
-**samuelrsil/samuelrsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro Elétrico com sólida bagagem em eletrônica, focado na transição para as áreas de **Automação Industrial, Manutenção Elétrica e Desenvolvimento de IHMs/Sistemas Embarcados**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎓 **Engenheiro Elétrico** (2014) com certificação **NR-10 vigente**.
+- ⚡ **Experiência Prática:** Diagnóstico e reparo de placas/equipamentos, instrumentação de bancada, testes e comandos elétricos.
+- 💻 **Projetos em Automação:** Desenvolvimento de soluções com microcontroladores (ESP32), interfaces homem-máquina (IHM), sensores e protocolos de comunicação.
+- 🎯 **Objetivo Profissional:** Atuação em manutenção preventiva/corretiva industrial, motores elétricos, instalações e automação de processos.
+
+---
+
+### 🛠️ Habilidades & Tecnologias
+- **Eletrotécnica & Manutenção:** Comandos Elétricos, Motores, NR-10, Diagnóstico de Defeitos, Quadro de Distribuição.
+- **Automação & Embarcados:** ESP32, Arduino, Desenvolvimento de IHM (TFT/Touch), C/C++, Sensores Industriais.
+- **Ferramentas & IDEs:** VS Code + PlatformIO, Git/GitHub, Instrumentação (Osciloscópio, Multímetro).
+
+---
+
+### 📬 Contato & Conexão
+- **LinkedIn:** [Samuel Silveira](https://www.linkedin.com/in/samuel-silveira-202440110)
+- **Localização:** São Carlos - SP, Brasil

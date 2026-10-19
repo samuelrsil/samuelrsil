@@ -1,6 +1,6 @@
 # Olá, sou o Samuel Silveira 👋
 
-Engenheiro Eletricista com sólida experiência em eletrônica, componentes eletrônicos e sistemas embarcados. Mais de 20 anos de atuação em suporte técnico consultivo, especificação de componentes, análise de aplicações e desenvolvimento de soluções embarcadas utilizando microcontroladores e sensores.
+Engenheiro Eletricista com mais de 20 anos de experiência em eletrônica, componentes eletrônicos e sistemas embarcados. Atuação em suporte técnico consultivo, especificação de componentes, análise de aplicações e desenvolvimento de soluções com microcontroladores e sensores.
 
 ---
 

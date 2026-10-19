@@ -1,6 +1,6 @@
 # Olá, sou o Samuel Silveira 👋
 
-Engenheiro Elétrico com sólida bagagem em eletrônica, focado na transição para as áreas de **Automação Industrial, Manutenção Elétrica e Desenvolvimento de IHMs/Sistemas Embarcados**. 
+Engenheiro Eletricista com sólida bagagem em eletrônica, sistemas embarcados e automação industrial. Experiência em especificação de componentes eletrônicos, análise de aplicações, desenvolvimento com microcontroladores, integração de sensores e suporte técnico consultivo. 
 
 ---
 

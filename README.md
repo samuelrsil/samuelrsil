@@ -29,7 +29,7 @@ Engenheiro Eletricista com mais de 20 anos de experiência em eletrônica, compo
 
 ### 🚀 Projetos em Destaque
 - **ESP32-S3 Touch LCD 7B + MLX90614**
-- Projeto de sistema embarcado utilizando ESP32-S3 display touch e sensor infravermelho MLX90614 para monitoramento de temperatura e desenvolvimento de interface homem-maquina(IHM).
+ Projeto de sistema embarcado utilizando ESP32-S3 display touch e sensor infravermelho MLX90614 para monitoramento de temperatura e desenvolvimento de interface homem-maquina(IHM).
 
 **Tecnologias:**
 - ESP32-S3

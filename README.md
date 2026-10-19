@@ -41,7 +41,9 @@ Projeto de sistema embarcado utilizando ESP32-S3 display touch e sensor infraver
 - Display TFT Touch
 - Sensor MLX90614
 
-- **Sistema de Aquisição e Monitoramento RS485 (Em Desenvolvimento)
+---
+
+- **Sistema de Aquisição e Monitoramento RS485 (Em Desenvolvimento)**
 
 Desenvolvimento de sistema distribuído para aquisição de sinais analógicos utilizando comunicação RS485 com isolamento galvânico. O projeto inclui um nó de aquisição baseado em PIC12F675 e uma unidade mestre baseada em ESP32-S3 Touch LCD 7B para monitoramento e interface homem-máquina (IHM)
 

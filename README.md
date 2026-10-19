@@ -13,7 +13,7 @@ Engenheiro Eletricista com sólida experiência em eletrônica, componentes elet
 ---
 
 ### 🛠️ Habilidades & Tecnologias
-- **Eletrotécnica & Componentes:** Análise de circuitos, interpretação de datasheets e especificação de componentes.
+- **Eletrônica & Componentes:** Especificação de componentes eletrônicos, interpretação de datasheets, análise de aplicações e diagnóstico de circuitos.
 - **Sistemas Embarcados:** ESP32, Arduino, microcontroladores, sensores e IHMs.
 - **Programação:** C/C++, PlatformIO e desenvolvimento para microcontroladores.
 - **Ferramentas:** VS Code, Git/GitHub, EEZ Studio

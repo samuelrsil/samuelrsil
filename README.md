@@ -7,7 +7,7 @@ Engenheiro Eletricista com mais de 20 anos de experiência em eletrônica, compo
 ### 🚀 Sobre Mim
 - 🎓 **Engenheiro Eletricista** (2014) com certificação **NR-10 vigente**.
 - ⚡ **Experiência Prática:** Diagnóstico e reparo de placas eletrônicas, instrumentação de bancada, testes, medições e especificação de componentes eletrônicos.
-- 💻 **Projetos em Sistemas Embarcados:** Desenvolvimento de soluções com microcontroladores (ESP32), interfaces homem-máquina (IHM), sensores e protocolos de comunicação.
+- 💻 **Projetos em Sistemas Embarcados:** Desenvolvimento de soluções baseadas em ESP32, interfaces homem-máquina (IHM), integração de sensores e protocolos de comunicação.
 - 🎯 **Objetivo Profissional:** Atuar em projetos de eletrônica e sistemas embarcados, aplicando conhecimentos em componentes eletrônicos, microcontroladores, sensores e desenvolvimento de soluções técnicas.
 
 ---

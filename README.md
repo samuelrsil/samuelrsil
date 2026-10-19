@@ -8,7 +8,7 @@ Engenheiro Eletricista com sólida bagagem em eletrônica, sistemas embarcados e
 - 🎓 **Engenheiro Elétrico** (2014) com certificação **NR-10 vigente**.
 - ⚡ **Experiência Prática:** Diagnóstico e reparo de placas/equipamentos, instrumentação de bancada, testes e comandos elétricos.
 - 💻 **Projetos em Automação:** Desenvolvimento de soluções com microcontroladores (ESP32), interfaces homem-máquina (IHM), sensores e protocolos de comunicação.
-- 🎯 **Objetivo Profissional:** Atuação em manutenção preventiva/corretiva industrial, motores elétricos, instalações e automação de processos.
+- 🎯 **Objetivo Profissional:** Atuar em desenvolvimento de soluções eletrônicas, sistemas embarcados, automação industrial e projetos de P&D, aplicando experiência em eletrônica, integração de sensores e microcontroladores.
 
 ---
 

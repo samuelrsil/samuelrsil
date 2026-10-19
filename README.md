@@ -8,7 +8,7 @@ Engenheiro Eletricista com sólida experiência em eletrônica, componentes elet
 - 🎓 **Engenheiro Eletricista** (2014) com certificação **NR-10 vigente**.
 - ⚡ **Experiência Prática:** Diagnóstico e reparo de placas eletrônicas, instrumentação de bancada, testes, medições e especificação de componentes eletrônicos.
 - 💻 **Projetos em Sistemas Embarcados:** Desenvolvimento de soluções com microcontroladores (ESP32), interfaces homem-máquina (IHM), sensores e protocolos de comunicação.
-- 🎯 **Objetivo Profissional:** Atuar no desenvolvimento de soluções eletrônicas e sistemas embarcados, contribuindo com experiência em componentes eletrônicos, microcontroladores, sensores e suporte técnico especializado.
+- 🎯 **Objetivo Profissional:** Atuar em projetos de eletrônica e sistemas embarcados, aplicando conhecimentos em componentes eletrônicos, microcontroladores, sensores e desenvolvimento de soluções técnicas.
 
 ---
 
